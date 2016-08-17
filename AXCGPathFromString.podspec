@@ -19,6 +19,6 @@ Pod::Spec.new do |s|
   s.frameworks = "UIKit", "CoreText", "Foundation"
 
   s.requires_arc = true
-  s.dependency "pop"
+#  s.dependency "pop"
 
 end
