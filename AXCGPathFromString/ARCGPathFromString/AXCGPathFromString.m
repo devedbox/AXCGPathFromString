@@ -1,6 +1,6 @@
 //
-//  ARCGPathFromString.m
-//  ARCGPathFromString
+//  AXCGPathFromString.m
+//  AXCGPathFromString
 //
 //  Created by devedbox on 16/8/16.
 //  Copyright © 2016年 devedbox. All rights reserved.
@@ -21,7 +21,7 @@
 //     distribution.
 //
 
-#import "ARCGPathFromString.h"
+#import "AXCGPathFromString.h"
 
 #pragma mark Single Line String Path
 

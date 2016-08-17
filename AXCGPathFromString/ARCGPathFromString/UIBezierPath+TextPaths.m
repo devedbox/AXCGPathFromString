@@ -1,6 +1,6 @@
 //
 //  UIBezierPath+TextPaths.m
-//  ARCGPathFromString
+//  AXCGPathFromString
 //
 //  Created by devedbox on 16/8/16.
 //  Copyright © 2016年 devedbox. All rights reserved.
@@ -22,7 +22,7 @@
 //
 
 #import "UIBezierPath+TextPaths.h"
-#import "ARCGPathFromString.h"
+#import "AXCGPathFromString.h"
 
 
 // for the multiline the CTFrame must have a max path size. This value is arbitrary, currently 4x the height of ipad screen.

@@ -15,7 +15,7 @@
 		01A8878A1D645C690088D0F6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 01A887881D645C690088D0F6 /* LaunchScreen.storyboard */; };
 		01A887951D645C6A0088D0F6 /* AXCGPathFromStringTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 01A887941D645C6A0088D0F6 /* AXCGPathFromStringTests.m */; };
 		01A887A01D645C6A0088D0F6 /* AXCGPathFromStringUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 01A8879F1D645C6A0088D0F6 /* AXCGPathFromStringUITests.m */; };
-		01A887B21D645D1C0088D0F6 /* ARCGPathFromString.m in Sources */ = {isa = PBXBuildFile; fileRef = 01A887AF1D645D1C0088D0F6 /* ARCGPathFromString.m */; };
+		01A887B21D645D1C0088D0F6 /* AXCGPathFromString.m in Sources */ = {isa = PBXBuildFile; fileRef = 01A887AF1D645D1C0088D0F6 /* AXCGPathFromString.m */; };
 		01A887B31D645D1C0088D0F6 /* UIBezierPath+TextPaths.m in Sources */ = {isa = PBXBuildFile; fileRef = 01A887B11D645D1C0088D0F6 /* UIBezierPath+TextPaths.m */; };
 /* End PBXBuildFile section */
 
@@ -53,8 +53,8 @@
 		01A8879B1D645C6A0088D0F6 /* AXCGPathFromStringUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AXCGPathFromStringUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		01A8879F1D645C6A0088D0F6 /* AXCGPathFromStringUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AXCGPathFromStringUITests.m; sourceTree = "<group>"; };
 		01A887A11D645C6A0088D0F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		01A887AE1D645D1C0088D0F6 /* ARCGPathFromString.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ARCGPathFromString.h; sourceTree = "<group>"; };
-		01A887AF1D645D1C0088D0F6 /* ARCGPathFromString.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ARCGPathFromString.m; sourceTree = "<group>"; };
+		01A887AE1D645D1C0088D0F6 /* AXCGPathFromString.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AXCGPathFromString.h; sourceTree = "<group>"; };
+		01A887AF1D645D1C0088D0F6 /* AXCGPathFromString.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AXCGPathFromString.m; sourceTree = "<group>"; };
 		01A887B01D645D1C0088D0F6 /* UIBezierPath+TextPaths.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIBezierPath+TextPaths.h"; sourceTree = "<group>"; };
 		01A887B11D645D1C0088D0F6 /* UIBezierPath+TextPaths.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIBezierPath+TextPaths.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -150,8 +150,8 @@
 		01A887AD1D645D1C0088D0F6 /* ARCGPathFromString */ = {
 			isa = PBXGroup;
 			children = (
-				01A887AE1D645D1C0088D0F6 /* ARCGPathFromString.h */,
-				01A887AF1D645D1C0088D0F6 /* ARCGPathFromString.m */,
+				01A887AE1D645D1C0088D0F6 /* AXCGPathFromString.h */,
+				01A887AF1D645D1C0088D0F6 /* AXCGPathFromString.m */,
 				01A887B01D645D1C0088D0F6 /* UIBezierPath+TextPaths.h */,
 				01A887B11D645D1C0088D0F6 /* UIBezierPath+TextPaths.m */,
 			);
@@ -289,7 +289,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				01A887B31D645D1C0088D0F6 /* UIBezierPath+TextPaths.m in Sources */,
-				01A887B21D645D1C0088D0F6 /* ARCGPathFromString.m in Sources */,
+				01A887B21D645D1C0088D0F6 /* AXCGPathFromString.m in Sources */,
 				01A887821D645C690088D0F6 /* ViewController.m in Sources */,
 				01A8877F1D645C690088D0F6 /* AppDelegate.m in Sources */,
 				01A8877C1D645C690088D0F6 /* main.m in Sources */,
